@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharmithag
-- 👀 I’m interested in Robotics
+- 👀 I am doing Masters in Robotics at University of Maryland CP.
 - 🌱 I’m currently learning ML and perception.
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me sharmithaganesan08@gmail.com
